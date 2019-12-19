@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header
+{
+    height:800vh;
+    
+}
+.navbar-style
+{
+    box-shadow: 0 5px 10px #efefef;
+}
